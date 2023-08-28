@@ -1,0 +1,26 @@
+.rodape {
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #6278F7;
+    background-image: url("/public/imagens/fundo.png");
+    background-repeat: no-repeat;
+    align-items: center;
+}
+
+.logo_rede{
+    margin: 0 20px;
+}
+
+.logo_organo{
+    width: 166px;
+    height: 63px;
+}
+
+.rodape p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: right;
+}
